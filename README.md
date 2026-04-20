@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Develpoer passionate about building scalable and real-world solutions<br>💻 Strong in Java, SQL, Spring Boot,JDBC,JSP,SERVLETS,VOIP,OS,CN,SDLC & problem solving<br>📚 Enthusiastic about AI, Machine Learning & impactful innovations<br>🌐 Built projects like Product Review Analytics & Reservation System<br>📈 Continuously learning, improving, and growing in tech every day
+🚀 Software Developer passionate about building scalable and real-world solutions<br>💻 Strong in Java, SQL, Spring Boot,JDBC,JSP,SERVLETS,VOIP,OS,CN,SDLC & problem solving<br>📚 Enthusiastic about AI, Machine Learning & impactful innovations<br>🌐 Built projects like Product Review Analytics & Reservation System<br>📈 Continuously learning, improving, and growing in tech every day
 
 
 ## 🌐 Socials:
