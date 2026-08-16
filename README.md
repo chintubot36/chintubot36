@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Developer passionate about building scalable and real-world solutions<br>💻 Strong in Java, SQL, Spring Boot,JDBC,JSP,SERVLETS,NODE JS,EXPRESS JS,VOIP,OS,CN,SDLC & problem solving<br>📚 Enthusiastic about AI, Machine Learning & impactful innovations<br>🌐 Built projects like Product Review Analytics & Reservation System<br>📈 Continuously learning, improving, and growing in tech every day
+🚀 Passionate Software Developer and MERN Stack Developer about building scalable and real-world solutions<br>💻 Strong in Java, SQL, Spring Boot,JDBC,JSP,SERVLETS,NODE JS,EXPRESS JS,VOIP,OS,CN,SDLC & problem solving<br>📚 Enthusiastic about AI, Machine Learning & impactful innovations<br>🌐 Built projects like Product Review Analytics & Reservation System<br>📈 Continuously learning, improving, and growing in tech every day
 
 
 ## 🌐 Socials:
